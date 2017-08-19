@@ -1,0 +1,2 @@
+# husen
+bitcoin minning
